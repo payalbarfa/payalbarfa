@@ -1,5 +1,4 @@
 
-Here’s a concise introduction for your GitHub profile based on your resume:
 
 🌟 Frontend Developer | JavaScript Enthusiast | Problem Solver 🌟
 Hi! I'm Payal Barfa, a results-driven software engineer with over 3 years of experience in building dynamic, user-friendly web applications. Proficient in ReactJS, NextJS, and TypeScript, I specialize in creating elegant dashboards, reusable components, and interactive features.
