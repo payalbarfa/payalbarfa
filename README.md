@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**payalbarfa/payalbarfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here’s a concise introduction for your GitHub profile based on your resume:
 
-Here are some ideas to get you started:
+🌟 Frontend Developer | JavaScript Enthusiast | Problem Solver 🌟
+Hi! I'm Payal Barfa, a results-driven software engineer with over 3 years of experience in building dynamic, user-friendly web applications. Proficient in ReactJS, NextJS, and TypeScript, I specialize in creating elegant dashboards, reusable components, and interactive features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 My expertise includes:
+
+Developing cutting-edge platforms (e.g., AI Chatbot Airline Booking Platform)
+Migrating projects to modern tech stacks like NextJS and TypeScript
+Collaborating across teams to deliver high-quality solutions
+🎯 Tech Stack: ReactJS, NextJS, Redux, JavaScript, CSS, Material UI, Styled Components
+🏆 Highlights: Recognized as Employee of the Month and an active participant in coding contests.
+
+Feel free to explore my repositories to see what I'm building next! 🚀
+
+
